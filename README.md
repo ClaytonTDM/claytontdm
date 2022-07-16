@@ -1,4 +1,4 @@
-# Hiya!
+# Hiya! I'm ClaytonTDM.
 - 🔭 I’m currently working on [Clickette](https://clickette.net/)
 - 🌱 I’m currently learning JavaScript & Python
 - 💬 Ask me about HTML, CSS, and JavaScript
