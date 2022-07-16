@@ -1,4 +1,4 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/ClaytonTDM/claytontdm/raw/output/github-contribution-grid-snake-dark.svg)
 
 # Hiya!
 - 🔭 I’m currently working on [Clickette](https://clickette.net/)
