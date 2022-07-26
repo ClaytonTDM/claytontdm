@@ -1,6 +1,6 @@
 # Hiya! I'm ClaytonTDM.
 - 🔭 I’m currently working on [Clickette](https://clickette.net/)
-- 🌱 I’m currently learning JavaScript & Python
+- 🌱 I’m currently learning JavaScript and want to learn Python
 - 💬 Ask me about HTML, CSS, and JavaScript
 - 📫 How to reach me: ClaytonTDM#1337 on Discord
 - 😄 Pronouns: He/Him
