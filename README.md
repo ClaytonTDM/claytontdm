@@ -6,6 +6,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started programming in Batch!
 
-[View Contributions in 3D!](https://skyline.github.com/claytontdm/2022)
+[View Contributions in 3D!](https://skyline.github.com/claytontdm/2022?annotation0=2022-07-08,2022-07-08,Moved%20Clickette%20to%20GitHub%20Pages)
 ![github contribution grid snake animation](https://github.com/ClaytonTDM/claytontdm/raw/output/github-contribution-grid-snake-dark.svg)
 ![ClaytonTDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark)
