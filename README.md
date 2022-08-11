@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on [Clickette](https://clickette.net/)
 - 🌱 I’m currently learning more about JavaScript
 - 💬 Ask me about HTML, CSS, and JavaScript
-- 📫 How to reach me: ClaytonTDM#1337 on Discord or claytontdm@clickette.net
+- 📫 How to reach me: ClaytonTDM#9187 on Discord or claytontdm@clickette.net
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started programming in Batch!
 
