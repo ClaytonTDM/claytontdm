@@ -12,4 +12,4 @@
 
 ![ClaytonTDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claytontdm&theme=github_dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claytontdm&theme=github_dark)
