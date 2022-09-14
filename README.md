@@ -10,6 +10,5 @@
 
 [View Contributions in 3D](https://skyline.github.com/claytontdm/2022?annotation0=2022-07-08,2022-07-08,Moved%20Clickette%20to%20GitHub%20Pages&annotation1=2022-03-06,2022-03-06,Used%20GitHub%20for%20the%20first%20time%20in%202022&annotation2=2022-09-01,2022-09-01,Moved%20Clickette%20to%20Vercel)
 
-![ClaytonTDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claytontdm&theme=github_dark)
+![ClaytonTDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark)
