@@ -2,10 +2,10 @@
 - 🔭 I’m currently working on [Clickette](https://github.com/clickette/clickette.net/)
 - 🌱 I’m currently learning more about JavaScript
 - 💬 Ask me about HTML, CSS, and JavaScript
-- 📫 How to reach me: ClaytonTDM#9187 on Discord or claytontdm@clickette.net
+- 📫 How to reach me: ClaytonTDM#9187 on Discord or [claytontdm@clickette.net](mailto:claytontdm@clickette.net)
+- ✏ I've worked on [Clickette](https://clickette.net/), [ProxWall](https://proxwall.ga/), [ParaDuckHost](https://paraduckhost.com/), and [BrainLack](https://brainlack.github.io/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started programming in Batch!
-- ✏ I've worked on [Clickette](https://clickette.net/), [ProxWall](https://proxwall.ga/), [ParaDuckHost](https://paraduckhost.com/), and [BrainLack](https://brainlack.github.io/).
 
 ![ClaytonTDM's Contributions (eaten by a snake)](https://github.com/ClaytonTDM/claytontdm/raw/output/github-contribution-grid-snake-dark.svg)
 
