@@ -9,4 +9,5 @@
 						<img class="mac" src="https://img.shields.io/badge/apple-%23404d59.svg?style=for-the-badge&amp;logo=apple&amp;logoColor=%#000000%22">
 	
 <img class="vsc" src="https://img.shields.io/badge/VSC-404D59?style=for-the-badge&amp;logo=VISUALSTUDIOCODE&amp;logoColor=0078d7">
+	<img class="batchfile" src="https://img.shields.io/badge/BATCHFILE-404d59?style=for-the-badge&logo=windows">
 </div>
