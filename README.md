@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about JavaScript
 - 💬 Ask me about HTML, CSS, and JavaScript
 - 📫 How to reach me: [ClaytonTDM#9187 on Discord](https://discord.com/users/838197580462293042) or [claytontdm@clickette.net](mailto:claytontdm@clickette.net)
-- ✏ I've worked on [Clickette](https://clickette.net/), [ProxWall](https://proxwall.ga/), [ParaDuckHost](https://paraduckhost.com/), [BrainLack](https://brainlack.github.io/), and [Zecono](https://top.gg/servers/861791581191012384).
+- ✏ I've worked on [Clickette](https://clickette.net/), [ProxWall](https://proxwall.ga/), [ParaDuckHost](https://paraduckhost.com/), and [Zecono](https://top.gg/servers/861791581191012384).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started programming in Batch!
 ###  Experience
