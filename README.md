@@ -23,7 +23,7 @@
 ### Contributions (eaten by a snake)
 [![ClaytonTDM's Contributions (eaten by a snake)](https://github.com/ClaytonTDM/claytontdm/raw/contributions/github-contribution-grid-snake-dark.svg)](#contributions-eaten-by-a-snake)
 
-[View Contributions in 3D](https://skyline.github.com/claytontdm/2022?annotation0=2022-07-08,2022-07-08,Moved%20Clickette%20to%20GitHub%20Pages&annotation1=2022-03-06,2022-03-06,Used%20GitHub%20for%20the%20first%20time%20in%202022&annotation2=2022-09-01,2022-09-01,Moved%20Clickette%20to%20Vercel&annotation3=2022-09-09,2022-09-09,Moved%20Clickette%20to%20AWS)
+[View Contributions in 3D](https://skyline.github.com/claytontdm/2023)
 
 ### Stats
 [![ClaytonTDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark)](#stats)
