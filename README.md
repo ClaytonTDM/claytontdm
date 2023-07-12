@@ -1,6 +1,7 @@
 # Hiya! I'm ClaytonTDM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Profile Views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#hiya-im-claytontdm-)
-- 🔭 I’m currently working on [Clickette](https://github.com/clickette/clickette.net/)
+<!-- - 🔭 I’m currently working on [Clickette](https://github.com/clickette/clickette.net/) !-->
+- 🔭 I'm not currently working on anything
 - 🌱 I’m currently learning more about JavaScript
 - 💬 Ask me about backend development
 - 📫 How to reach me: [ClaytonTDM#1162 on Discord](https://discord.com/users/838197580462293042) or [claytontdm@clickette.net](mailto:claytontdm@clickette.net)
