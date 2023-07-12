@@ -1,4 +1,4 @@
-# Hiya! I'm ClaytonTDM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Heya! I'm ClaytonTDM <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Profile Views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#hiya-im-claytontdm-)
 <!-- - 🔭 I’m currently working on [Clickette](https://github.com/clickette/clickette.net/) !-->
 - 🔭 I'm not currently working on anything
