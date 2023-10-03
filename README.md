@@ -2,12 +2,12 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#hiya-im-claytontdm-)
 <!-- - 🔭 I’m currently working on [Clickette](https://github.com/clickette/clickette.net/) !-->
 - 🔭 I'm not currently working on anything
-- 🌱 I’m currently learning more about JavaScript
+- 🌱 I’m currently learning LuaU development
 - 💬 Ask me about backend development
 - 📫 How to reach me: [ClaytonTDM#1162 on Discord](https://discord.com/users/838197580462293042) or [claytontdm@clickette.net](mailto:claytontdm@clickette.net)
 - ✏ I've worked on [Clickette](https://clickette.net/), [PepSearch (Prizmarine)](https://pepsearch.xyz/), [Resulti](https://resulti.net/), and [Zecono](https://top.gg/servers/861791581191012384).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started programming in Batch!
+- ⚡ Fun fact: I started programming in JavaScript!
 ###  Experience
  <div>
 						<a href="#experience"><img class="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"></a>
