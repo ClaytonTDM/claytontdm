@@ -5,7 +5,7 @@
 - 🔭 I'm not currently working on anything
 - 🌱 I’m currently learning LuaU development
 - 💬 Ask me about backend development
-- 📫 How to reach me: [ClaytonTDM#1162 on Discord](https://discord.com/users/838197580462293042) or [claytontdm@clickette.net](mailto:claytontdm@clickette.net)
+- 📫 How to reach me: [ClaytonTDM on Discord](https://discord.com/users/838197580462293042) or [claytontdm@clickette.net](mailto:claytontdm@clickette.net)
 - ✏ I've worked on [Clickette](https://clickette.net/), [PepSearch (Prizmarine)](https://pepsearch.xyz/), [Resulti](https://resulti.net/), and [Zecono](https://top.gg/servers/861791581191012384).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started programming in JavaScript!
