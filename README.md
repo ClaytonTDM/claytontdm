@@ -14,11 +14,6 @@
 	<a href="#experience"><img src="https://img.shields.io/badge/VSCODE-404D59?style=for-the-badge&amp;logo=VISUALSTUDIOCODE&amp;logoColor=0078d7"></a>
 </div>
 
-### Contributions (eaten by a snake)
-[![ClaytonTDM's Contributions (eaten by a snake)](https://github.com/ClaytonTDM/claytontdm/raw/contributions/github-contribution-grid-snake-dark.svg)](#contributions-eaten-by-a-snake)
-<!--
-[View Contributions in 3D](https://skyline.github.com/claytontdm/2023)-->
-
 ### Stats
 [![ClaytonTDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark)](#stats)
 
