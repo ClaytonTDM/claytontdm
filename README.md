@@ -2,9 +2,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#hiya-im-claytontdm-)
 
-### Languages
-
 <div>
+	<h3>Languages</h3>
 	<a href="#languages"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/TypeScript-3077C5?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=white"></a>
