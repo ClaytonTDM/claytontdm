@@ -9,7 +9,7 @@
 	<a href="#experience"><img src="https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnubash&amp;logoColor=white"></a>
 	<a href="#experience"><img src="https://img.shields.io/badge/Batch-404D59?style=for-the-badge&logo=windows&amp;logoColor=white"></a>
 	<br>
-	<h3>Markup Languages</h3>
+	<h3>Markup</h3>
 	<a href="#experience"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"></a>
 	<a href="#experience"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"></a>
 	<a href="#experience"><img src="https://img.shields.io/badge/Markdown-03A7DD?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"></a>
