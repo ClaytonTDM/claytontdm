@@ -24,9 +24,11 @@
 </div>
 
 ### Stats
-[![ClaytonTDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark)](#stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=dracula">](#stats)
 
-[![ClaytonTDM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claytontdm&layout=compact&theme=github_dark)](#stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytontdm&layout=compact&theme=dracula">](#stats)
+
+<br><br><br><br><br><br><br><br> <!-- 😭 -->
 
 ### Trophy Case
-[![ClaytonTDM's Trophy Case](https://github-profile-trophy.vercel.app/?username=claytontdm&theme=onestar)](#trophy-case)
+[![ClaytonTDM's Trophy Case](https://github-profile-trophy.vercel.app/?username=claytontdm&theme=dracula)](#trophy-case)
