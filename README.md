@@ -28,7 +28,7 @@
 
 [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytontdm&layout=compact&theme=dracula">](#stats)
 
-<br><br><br><br><br><br><br><br> <!-- 😭 -->
+<br><br><br><br><br><br><br><br><br><br> <!-- 😭 -->
 
 ### Trophy Case
 [![ClaytonTDM's Trophy Case](https://github-profile-trophy.vercel.app/?username=claytontdm&theme=dracula)](#trophy-case)
