@@ -18,9 +18,12 @@
 	<h3>Operating Systems</h3>
 	<a href="#languages"><img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Linux%20Mint-69B53F?style=for-the-badge&amp;logo=linuxmint&amp;logoColor=white"></a>
+	<a href="#languages"><img src="https://img.shields.io/badge/Ubuntu%20Server-DD4814?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white"></a>
+	<a href="#languages"><img src="https://img.shields.io/badge/Debian%20Server-FFFFFF?style=for-the-badge&amp;logo=debian&amp;logoColor=A80030"></a>
 	<br>
 	<h3>Editors</h3>
 	<a href="#languages"><img src="https://img.shields.io/badge/VSCode-282828?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=5FACf0"></a>
+	<a href="#languages"><img src="https://img.shields.io/badge/Visual%20Studio-282828?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=CB96f8"></a>
 </div>
 
 ### Stats
