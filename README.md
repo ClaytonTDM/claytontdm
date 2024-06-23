@@ -1,4 +1,4 @@
-# Heya! I'm ClaytonTDM <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">
+# Heya! I'm Clay <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">
 
 <div>
 	<h3>Languages</h3>
