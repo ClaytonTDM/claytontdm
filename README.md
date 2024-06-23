@@ -5,7 +5,7 @@
 <div>
 	<h3>Languages</h3>
 	<a href="#languages"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"></a>
-	<a href="#languages"><img src="https://img.shields.io/badge/TypeScript-3077C5?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"></a>
+	<!-- <a href="#languages"><img src="https://img.shields.io/badge/TypeScript-3077C5?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"></a> -->
 	<a href="#languages"><img src="https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnubash&amp;logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Batch-404D59?style=for-the-badge&logo=windows&amp;logoColor=white"></a>
