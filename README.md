@@ -1,7 +1,5 @@
 # Heya! I'm ClaytonTDM <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#hiya-im-claytontdm-)
-
 <div>
 	<h3>Languages</h3>
 	<a href="#languages"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"></a>
@@ -35,3 +33,7 @@
 
 ### Trophy Case
 [![ClaytonTDM's Trophy Case](https://github-profile-trophy.vercel.app/?username=claytontdm&theme=dracula)](#trophy-case)
+
+<div id="views">
+	<a href="#views"><img src="https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge"></a>
+</div>
