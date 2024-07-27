@@ -1,6 +1,6 @@
 # Heya! I'm Clay <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">
 
-<img src="https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge" alt="status"> <img src="https://api.statusbadges.me/badge/playing/838197580462293042?style=for-the-badge" alt="playing"> <img src="https://api.statusbadges.me/badge/vscode/838197580462293042?style=for-the-badge" alt="vscode">
+<img src="https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge" alt="status">
 
 <div>
 	<h3>Languages</h3>
