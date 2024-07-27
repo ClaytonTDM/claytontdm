@@ -27,14 +27,14 @@
 </div>
 
 ### Stats
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=dracula">](#stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark">](#stats)
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytontdm&layout=compact&theme=dracula">](#stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytontdm&layout=compact&theme=github_dark">](#stats)
 
 <br><br><br><br><br><br><br><br><br><br> <!-- 😭 -->
 
 ### Trophy Case
-[![ClaytonTDM's Trophy Case](https://github-profile-trophy.vercel.app/?username=claytontdm&theme=dracula)](#trophy-case)
+[![ClaytonTDM's Trophy Case](https://github-profile-trophy.vercel.app/?username=claytontdm&theme=darkhub)](#trophy-case)
 
 <div id="views">
 	<a href="#views"><img src="https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge"></a>
