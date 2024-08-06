@@ -16,7 +16,7 @@
 	<a href="#languages"><img src="https://img.shields.io/badge/Markdown-03A7DD?style=for-the-badge&logo=markdown&logoColor=white"></a>
 	<br>
 	<h3>Operating Systems</h3>
-	<a href="#languages"><img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4="></a>
+	<a href="#languages"><img src="https://img.shields.io/badge/Windows XP, 7, 8.1, 10, 11-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4="></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Linux%20Mint-69B53F?style=for-the-badge&logo=linuxmint&logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Ubuntu%20Server-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Debian%20Server-FFFFFF?style=for-the-badge&logo=debian&logoColor=A80030"></a>
