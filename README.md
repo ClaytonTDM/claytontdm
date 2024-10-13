@@ -20,6 +20,7 @@
 	<a href="#languages"><img src="https://img.shields.io/badge/Linux%20Mint-69B53F?style=for-the-badge&logo=linuxmint&logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Ubuntu%20Server-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Debian%20Server-FFFFFF?style=for-the-badge&logo=debian&logoColor=A80030"></a>
+	<a href="#languages"><img src="https://img.shields.io/badge/Kali%20Linux-16171D?style=for-the-badge&logo=kali-linux&logoColor=2777FF"></a>
 	<br>
 	<h3>Editors</h3>
 	<a href="#languages"><img src="https://img.shields.io/badge/VSCode-282828?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIzLjE1IDIuNTg3IDE4LjIxLjIxYTEuNDkgMS40OSAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhMSAxIDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YTEgMSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OSAxLjQ5IDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJtLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh6IiBmaWxsPSIjNUZBQ2YwIi8+PC9zdmc+"></a>
