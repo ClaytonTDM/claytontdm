@@ -8,7 +8,7 @@
 	<!-- <a href="#languages"><img src="https://img.shields.io/badge/TypeScript-3077C5?style=for-the-badge&logo=typescript&logoColor=white"></a> -->
 	<a href="#languages"><img src="https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&logo=robloxstudio&logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnubash&logoColor=white"></a>
-	<a href="#languages"><img src="https://img.shields.io/badge/Batch-404D59?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4="></a>
+	<a href="#languages"><img src="https://img.shields.io/badge/Batch-555555?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4="></a>
 	<br>
 	<h3>Markup</h3>
 	<a href="#languages"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
