@@ -29,6 +29,7 @@
 </div>
 
 ### Stats
+
 [<img align="left" src="https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark">](#stats)
 
 [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytontdm&layout=compact&theme=github_dark">](#stats)
@@ -36,6 +37,7 @@
 <br><br><br><br><br><br><br><br><br><br> <!-- 😭 -->
 
 ### Trophy Case
+
 [![ClaytonTDM's Trophy Case](https://github-profile-trophy.vercel.app/?username=claytontdm&theme=darkhub)](#trophy-case)
 
 <div id="views">
