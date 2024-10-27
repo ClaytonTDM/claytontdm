@@ -5,7 +5,7 @@
 <div>
 	<h3>Languages</h3>
 	<a href="#languages"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-	<!-- <a href="#languages"><img src="https://img.shields.io/badge/TypeScript-3077C5?style=for-the-badge&logo=typescript&logoColor=white"></a> -->
+	<a href="#languages"><img src="https://img.shields.io/badge/TypeScript-3077C5?style=for-the-badge&logo=typescript&logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&logo=robloxstudio&logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Bash-272E35?style=for-the-badge&logo=gnubash&logoColor=white"></a>
 	<a href="#languages"><img src="https://img.shields.io/badge/Batch-555555?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4="></a>
@@ -30,11 +30,7 @@
 
 ### Stats
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark">](#stats)
-
-[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytontdm&layout=compact&theme=github_dark">](#stats)
-
-<br><br><br><br><br><br><br><br><br><br> <!-- 😭 -->
+[<img src="https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark">](#stats)
 
 ### Trophy Case
 
