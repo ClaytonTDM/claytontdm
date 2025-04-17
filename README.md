@@ -26,7 +26,7 @@
 [![Express](https://img.shields.io/badge/Express-181818?style=for-the-badge&logo=express&logoColor=FFFFFF)](#libraries)
 [![ESBuild](https://img.shields.io/badge/ESBuild-181918?style=for-the-badge&logo=esbuild&logoColor=FFCF00)](#libraries)
 [![Turbo](https://img.shields.io/badge/Turbo-FFFFFF?style=for-the-badge&logo=turbo&logoColor=5CD8E5)](#libraries)
-[![EJS](https://img.shields.io/badge/EJS-3F4A19?style=for-the-badge&logo=turbo&logoColor=B4CA65)](#libraries)
+[![EJS](https://img.shields.io/badge/EJS-3F4A19?style=for-the-badge&logo=ejs&logoColor=B4CA65)](#libraries)
 
 ### Operating Systems (in order of most to least used)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-69B53F?style=for-the-badge&logo=linuxmint&logoColor=white)](#operating-systems-in-order-of-most-to-least-used)
