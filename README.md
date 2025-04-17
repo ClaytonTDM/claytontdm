@@ -61,12 +61,12 @@
 
 ## Stats
 
-[<img src="https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark">](#stats)
+[![Clay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark)](#stats)
 
 ## Trophy Case
 
-[![ClaytonTDM's Trophy Case](https://github-profile-trophy.vercel.app/?username=claytontdm&theme=darkhub)](#trophy-case)
+[![Clay's Trophy Case](https://github-profile-trophy.vercel.app/?username=claytontdm&theme=darkhub)](#trophy-case)
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#views)
+[![Profile views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#heya-im-clay-)
