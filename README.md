@@ -3,9 +3,9 @@
 
 ---
 
-# Heya! I'm Clay <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">&nbsp;&nbsp;<img src="https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge" alt="status">
+# Heya! I'm Clay <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="32">&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge)
 
-<img src="https://api.statusbadges.me/badge/vscode/838197580462293042?style=for-the-badge" alt="vscode"> <img src="https://api.statusbadges.me/badge/playing/838197580462293042?style=for-the-badge" alt="playing">
+![vscode](https://api.statusbadges.me/badge/vscode/838197580462293042?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/838197580462293042?style=for-the-badge)
 
 ## Experience
 
@@ -55,7 +55,8 @@
 
 [Mastodon/Fedi - @claytontdm@mastodon.social](https://mastodon.social/@claytontdm) - Don't contact me here
 
----
+<br>
+
 
 # GitHub Stuff
 
