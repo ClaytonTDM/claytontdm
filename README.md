@@ -3,7 +3,7 @@
 
 ---
 
-# Heya! I'm Clay <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="32">&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge)
+# Heya! I'm Clay <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="28">&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge)
 
 ![vscode](https://api.statusbadges.me/badge/vscode/838197580462293042?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/838197580462293042?style=for-the-badge)
 
