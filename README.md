@@ -11,6 +11,7 @@
 
 ### Languages & Runtimes
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#languages)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#languages)
 [![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)](#languages)
 [![LuaU](https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&logo=robloxstudio&logoColor=white)](#languages)
 [![Bash/ZSH](https://img.shields.io/badge/Bash%2FZSH-272E35?style=for-the-badge&logo=gnubash&logoColor=white)](#languages)
