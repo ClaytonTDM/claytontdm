@@ -12,7 +12,7 @@
 ### Languages & Runtimes
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#languages)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#languages)
-[![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)](#languages)
+[![Deno](https://img.shields.io/badge/Deno-121417?style=for-the-badge&logo=deno&logoColor=white)](#languages)
 [![LuaU](https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&logo=robloxstudio&logoColor=white)](#languages)
 [![Bash/ZSH](https://img.shields.io/badge/Bash%2FZSH-272E35?style=for-the-badge&logo=gnubash&logoColor=white)](#languages)
 [![Batch](https://img.shields.io/badge/Batch-555555?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](#languages)
