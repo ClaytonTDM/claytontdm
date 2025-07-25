@@ -53,6 +53,8 @@
 
 [Codeberg - /claytontdm](https://codeberg.com/claytontdm)
 
+[GitLab - /claytontdm](https://gitlab.com/claytontdm) - I rarely (if ever) use GitLab
+
 [Discord - @claytontdm](https://discord.com/users/838197580462293042) - Recommended for private stuff
 
 [Matrix (Beeper) - @claytontdm:beeper.com](https://matrix.to/#/@claytontdm:beeper.com) - Recommended for private stuff
