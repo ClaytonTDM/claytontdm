@@ -31,9 +31,10 @@
 [![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=A91E50)](#libraries)
 
 ### 🖥️ Operating Systems (in order of most to least used)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](#operating-systems-in-order-of-most-to-least-used)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-69B53F?style=for-the-badge&logo=linuxmint&logoColor=white)](#operating-systems-in-order-of-most-to-least-used)
-[![Solus](https://img.shields.io/badge/Solus-5294E2?style=for-the-badge&logo=solus&logoColor=white)](#operating-systems-in-order-of-most-to-least-used)
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](#operating-systems-in-order-of-most-to-least-used)
+[![Solus](https://img.shields.io/badge/Solus-5294E2?style=for-the-badge&logo=solus&logoColor=white)](#operating-systems-in-order-of-most-to-least-used)
 [![Debian](https://img.shields.io/badge/Debian-FFFFFF?style=for-the-badge&logo=debian&logoColor=A80030)](#operating-systems-in-order-of-most-to-least-used)
 [![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)](#operating-systems-in-order-of-most-to-least-used)
 [![Debian Server](https://img.shields.io/badge/Debian%20Server-FFFFFF?style=for-the-badge&logo=debian&logoColor=A80030)](#operating-systems-in-order-of-most-to-least-used)
