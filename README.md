@@ -18,7 +18,7 @@
 [![Bash/ZSH](https://img.shields.io/badge/Bash%2FZSH-272E35?style=for-the-badge&logo=gnubash&logoColor=white)](#languages)
 [![Batch](https://img.shields.io/badge/Batch-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](#languages)
 
-### ✏️ Markup Languages
+### ✏️ “Languages”
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#markup-languages)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](#markup-languages)
 [![Markdown](https://img.shields.io/badge/Markdown-03A7DD?style=for-the-badge&logo=markdown&logoColor=white)](#markup-languages)
