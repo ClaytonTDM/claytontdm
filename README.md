@@ -20,7 +20,7 @@
 
 ### ✏️ Markup Languages
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#markup-languages)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#markup-languages)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](#markup-languages)
 [![Markdown](https://img.shields.io/badge/Markdown-03A7DD?style=for-the-badge&logo=markdown&logoColor=white)](#markup-languages)
 
 ### 📚 Libraries
@@ -31,6 +31,7 @@
 [![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=A91E50)](#libraries)
 
 ### 🖥️ Operating Systems (in order of most to least used)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](#operating-systems-in-order-of-most-to-least-used)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](#operating-systems-in-order-of-most-to-least-used)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-69B53F?style=for-the-badge&logo=linuxmint&logoColor=white)](#operating-systems-in-order-of-most-to-least-used)
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](#operating-systems-in-order-of-most-to-least-used)
@@ -43,6 +44,7 @@
 ### 🧰 Tools
 [![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIzLjE1IDIuNTg3IDE4LjIxLjIxYTEuNDkgMS40OSAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhMSAxIDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YTEgMSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OSAxLjQ5IDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJtLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh6IiBmaWxsPSIjNUZBQ2YwIi8+PC9zdmc+)](#tools)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2D2D30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE3LjU4My4wNjNhMS41IDEuNSAwIDAgMC0xLjAzMi4zOTJoLS4wMDFMMTYuNS41IDguNTI4IDkuMzE2IDMuODc1IDUuNWwtLjQwNy0uMzVhMSAxIDAgMCAwLTEuMDI0LS4xNTRsLS4wMTIuMDA1LTEuODE3Ljc1LS4wNzcuMDM2LS4wNDcuMDI4LS4wMzguMDIyLS4wNDguMDM0LS4wMy4wMjQtLjA0NC4wMzYtLjAzNi4wMzMtLjAzMi4wMzUtLjAzMy4wMzgtLjAzNS4wNDQtLjAyNC4wMzQtLjAzMi4wNS0uMDIuMDM1LS4wMjQuMDUtLjAyLjA0NS0uMDE2LjA0NC0uMDE2LjA0Ny0uMDE1LjA1NS0uMDEuMDQtLjAwOC4wNTQtLjAwNi4wNUwwIDYuNjY4djEwLjY2NmExIDEgMCAwIDAgLjYxNS45MTdsMS44MTcuNzY0YTEgMSAwIDAgMCAxLjAzNS0uMTY0bC40MDgtLjM1IDQuNjUzLTMuODE1IDcuOTczIDguODE1LjA3Mi4wNjUuMDU3LjA1LjA1OC4wNDIuMDYzLjA0NC4wNjUuMDM4LjA2NS4wMzYuMDY4LjAzMS4wNy4wMy4wNzMuMDI1LjA2Ni4wMi4wOC4wMi4wNjguMDE0LjA3NS4wMS4wNzUuMDA4LjA3My4wMDNoLjA3N2wuMDc4LS4wMDUuMDY3LS4wMDcuMDg3LS4wMTUuMDYtLjAxMi4wOC0uMDIyLjA2OC0uMDIuMDctLjAyOC4wOS0uMDM3IDQuOTQ0LTIuMzc3YTEuNSAxLjUgMCAwIDAgLjQ3Ni0uMzYyIDIgMiAwIDAgMCAuMDktLjExMmwuMDA0LS4wMDdhMiAyIDAgMCAwIC4wOC0uMTI1IDIgMiAwIDAgMCAuMDYyLS4xMmwuMDA5LS4wMTcuMDQtLjEwOC4wMTUtLjAzNy4wMy0uMTA3LjAwOS0uMDM3LjAxNy0uMS4wMDgtLjA1LjAwNi0uMDkuMDA0LS4wOFYzLjkwN2EyIDIgMCAwIDAtLjAxLS4xNSAxLjUgMS41IDAgMCAwLS44NC0xLjE3TDE4LjIwNi4yMWExLjUgMS41IDAgMCAwLS42MjItLjE0NnpNMTggNi45MnYxMC4xNjNsLTYuMTk4LTUuMDh6TTMgOC41NzRsMy4wOTkgMy40MjctMy4xIDMuNDI2eiIgZmlsbD0iI0NCOTZmOCIvPjwvc3ZnPg==)](#tools)
+[![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)](#tools)
 [![Lunacy](https://img.shields.io/badge/Lunacy-179DE3?style=for-the-badge&logo=lunacy&logoColor=white)](#tools)
 
 ## 👤 Socials + Contact
@@ -59,9 +61,9 @@
 
 [Discord - @claytontdm](https://discord.com/users/838197580462293042) - Recommended for private stuff
 
-[Matrix (Beeper) - @claytontdm:beeper.com](https://matrix.to/#/@claytontdm:beeper.com) - Recommended for private stuff
+[Email - hi@clay.rip](mailto:hi@clay.rip) - Recommended for private stuff
 
-[Email - clay.891@proton.me](mailto:clay.891@proton.me) - I'll respond but don't expect it to be quick
+[Matrix (Beeper) - @claytontdm:beeper.com](https://matrix.to/#/@claytontdm:beeper.com) - Don't contact me here
 
 [Mastodon/Fedi - @claytontdm@mastodon.social](https://mastodon.social/@claytontdm) - Don't contact me here
 
