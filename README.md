@@ -3,7 +3,7 @@
 
 ---
 
-# <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="28"> Heya! I'm Clay&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge)
+# <img src="https://github.com/user-attachments/assets/2be1b51a-a565-4182-89a1-124c5bfeb3d0" width="28"> Heya! I'm Clay&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge)
 
 ![vscode](https://api.statusbadges.me/badge/vscode/838197580462293042?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/838197580462293042?style=for-the-badge)
 
