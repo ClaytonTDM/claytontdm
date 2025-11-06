@@ -51,7 +51,7 @@
 
 ### [Keyoxide Proof](https://keyoxide.org/aspe%3Akeyoxide.org%3AJOHK7JGENOKADZCDASJEW2OVSU)
 
-[Bluesky - @clay.clickette.org](https://bsky.app/profile/did:plc:huu2fhy7acz36c4ktqxaq6hj) - Recommended for public stuff
+[Bluesky - @clay.rip](https://bsky.app/profile/did:plc:huu2fhy7acz36c4ktqxaq6hj) - Recommended for public stuff
 
 [GitHub - /claytontdm](https://github.com/claytontdm)
 
