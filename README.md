@@ -63,7 +63,7 @@
 
 [Email - hi@clay.rip](mailto:hi@clay.rip) - Recommended for private stuff
 
-[Matrix (Beeper) - @claytontdm:beeper.com](https://matrix.to/#/@claytontdm:beeper.com) - Don't contact me here
+[Matrix (Beeper) - @c891:beeper.com](https://matrix.to/#/@c891:beeper.com) - Recommended for private stuff
 
 [Mastodon/Fedi - @claytontdm@mastodon.social](https://mastodon.social/@claytontdm) - Don't contact me here
 
