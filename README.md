@@ -60,22 +60,8 @@
 
 [Email - hi@clay.rip](mailto:hi@clay.rip) - Recommended for private stuff
 
-[Matrix (Beeper) - @c891:beeper.com](https://matrix.to/#/@c891:beeper.com) - Recommended for private stuff
-
-[Mastodon/Fedi - @claytontdm@mastodon.social](https://mastodon.social/@claytontdm) - Don't contact me here
-
-<br>
-
-# GitHub Stuff
-
-## Stats
-
-[![Clay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=claytontdm&show_icons=true&theme=github_dark)](#stats)
-
-## Trophy Case
-
-[![Clay's Trophy Case](https://github-profile-trophy.vercel.app/?username=claytontdm&theme=darkhub)](#trophy-case)
+[Matrix (Beeper) - @c891:beeper.com](https://matrix.to/#/@clay891:beeper.com) - Recommended for private stuff
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#heya-im-clay-)
+[![Profile views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#-heya-im-clay)
