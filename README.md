@@ -10,18 +10,18 @@
 ## 🛠️ Experience
 
 ### 🖥️ Languages & Runtimes
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](#%F0%9F%96%A5%EF%B8%8F-languages--runtimes)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](#-languages--runtimes)
-[![Deno](https://img.shields.io/badge/Deno-121417?style=for-the-badge&logo=deno&logoColor=FFFFFF)](#-languages--runtimes)
-[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](#-languages--runtimes)
-[![LuaU](https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&logo=robloxstudio&logoColor=FFFFFF)](#-languages--runtimes)
-[![Bash/ZSH](https://img.shields.io/badge/Bash%2FZSH-272E35?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)](#-languages--runtimes)
-[![Batch](https://img.shields.io/badge/Batch-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](#-languages--runtimes)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](#%EF%B8%8F-languages--runtimes)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](#%EF%B8%8F-languages--runtimes)
+[![Deno](https://img.shields.io/badge/Deno-121417?style=for-the-badge&logo=deno&logoColor=FFFFFF)](#%EF%B8%8F-languages--runtimes)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](#%EF%B8%8F-languages--runtimes)
+[![LuaU](https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&logo=robloxstudio&logoColor=FFFFFF)](#%EF%B8%8F-languages--runtimes)
+[![Bash/ZSH](https://img.shields.io/badge/Bash%2FZSH-272E35?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)](#%EF%B8%8F-languages--runtimes)
+[![Batch](https://img.shields.io/badge/Batch-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](#%EF%B8%8F-languages--runtimes)
 
 ### ✏️ Markup/Other Languages
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)](#-markupother-languages)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=FFFFFF)](#-markupother-languages)
-[![Markdown](https://img.shields.io/badge/Markdown-03A7DD?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](#-markupother-languages)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)](#%EF%B8%8F-markupother-languages)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=FFFFFF)](#%EF%B8%8F-markupother-languages)
+[![Markdown](https://img.shields.io/badge/Markdown-03A7DD?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](#%EF%B8%8F-markupother-languages)
 
 ### 📚 Libraries/Frameworks
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)](#-librariesframeworks)
@@ -33,8 +33,8 @@
 
 ### 🧑‍💻 Learning
 
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF)](#-languages--runtimes)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)](#-languages--runtimes)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF)](#%E2%80%8D-learning)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)](#%E2%80%8D-learning)
 
 ### 💻 Operating Systems
 
