@@ -10,7 +10,7 @@
 ## 🛠️ Experience
 
 ### 🖥️ Languages & Runtimes
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](#-languages--runtimes)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](#%F0%9F%96%A5%EF%B8%8F-languages--runtimes)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](#-languages--runtimes)
 [![Deno](https://img.shields.io/badge/Deno-121417?style=for-the-badge&logo=deno&logoColor=FFFFFF)](#-languages--runtimes)
 [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](#-languages--runtimes)
