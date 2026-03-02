@@ -5,7 +5,7 @@
 
 # <img src="https://github.com/user-attachments/assets/2be1b51a-a565-4182-89a1-124c5bfeb3d0" width="28"> Heya! I'm Clay&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge)
 
-![vscode](https://api.statusbadges.me/badge/vscode/838197580462293042?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/838197580462293042?style=for-the-badge) ![listening](https://img.shields.io/endpoint?url=https%3A%2F%2Fnow-playing.claytontdm.workers.dev%2F&style=for-the-badge&cacheSeconds=1)
+![vscode](https://api.statusbadges.me/badge/vscode/838197580462293042?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/838197580462293042?style=for-the-badge) ![listening](https://now-playing.claytontdm.workers.dev/)
 
 
 ## 🛠️ Experience
