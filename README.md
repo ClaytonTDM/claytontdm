@@ -1,59 +1,61 @@
-> [!NOTE]
-> I prefer Codeberg: [ClaytonTDM](https://codeberg.org/ClaytonTDM)
-
----
-
-# <img src="https://github.com/user-attachments/assets/2be1b51a-a565-4182-89a1-124c5bfeb3d0" width="28"> Heya! I'm Clay&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge)
+# <img src="https://github.com/user-attachments/assets/2be1b51a-a565-4182-89a1-124c5bfeb3d0" width="28"> Heya! I'm Clay&nbsp;&nbsp;![status](https://api.statusbadges.me/badge/status/838197580462293042?style=for-the-badge&label)
 
 ![vscode](https://api.statusbadges.me/badge/vscode/838197580462293042?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/838197580462293042?style=for-the-badge) [![listening](https://now-playing.claytontdm.workers.dev/)](https://pdsls.dev/at://did:plc:huu2fhy7acz36c4ktqxaq6hj/fm.teal.alpha.feed.play)
 
+> **Accounts on other Git forges:**
+>
+> [![Tangled - @clay.rip](https://img.shields.io/badge/Tangled-%40clay.rip-1F2937?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJzaXplLTggdGV4dC1ibGFjayBkYXJrOnRleHQtd2hpdGUiIHZpZXdCb3g9IjAgMCAyNSAyNSI%2BPHBhdGggZmlsbD0iIzMzMyIgZD0iTTE2LjM1IDI0LjFjLS43OSAwLTEuMzktLjIzLTIuMDQtLjYyYTUuNSA1LjUgMCAwIDEtMi4xNS0yLjIyYy0uOCAxLTEuODkgMS42LTMuMSAxLjk1LS41MS4xNS0xLjQxLjMtMi45LS4yNGE1LjMgNS4zIDAgMCAxLTMuNTUtNS4yNSA1IDUgMCAwIDEgLjgtMi42NyA1LjYgNS42IDAgMCAxLTIuNzgtMy4zMkE2IDYgMCAwIDEgLjUgOS4yOCA1LjQgNS40IDAgMCAxIDQuMSA1LjFhNS41IDUuNSAwIDAgMSA0LjE4LTMuMiA1LjUgNS41IDAgMCAxIDMuNTMuNyA1LjM4IDUuMzggMCAwIDEgOS4yNSAyLjg1YzEuNS42IDIuNzUgMS44MiAzLjI0IDMuMzYuMzMuOTYuMzQgMi4wMi4xMyAzYTUuNiA1LjYgMCAwIDEtMi44NyAzLjU2YzAgLjI3LjkgMi4yNC43NSAzLjczYTUuMyA1LjMgMCAwIDEtMi44NCA0LjQ3Yy0uOTYuNTYtMi4wOS41NS0zLjEyLjU0bS00LjQ3LTUuMzRjMS4zMi0uMTUgMi4xOS0xLjMgMi44Ni0yLjM0LjMyLS40Ny41Ni0xIC44LTEuNS4zMS4yOC41OC44MiAxLjA4Ljk1LjUyLjE2IDEuMTMuMDMgMS40NS0uNDQuNjEtMS4xNC4zLTIuNTItLjA1LTMuN2E0IDQgMCAwIDAtMS4wNS0xLjg2Yy4xMi0uODItLjM3LTEuNjYtMS4wNy0yLjA5LS41OS40Ny0xLjQ5LjQ3LTIuMDYtLjAzLTEuMDkgMS4xMS0yLjEgMS4wOC0zLjA2LjItLjIyLS4yLS42MyAxLjItMi4wOS40YTkgOSAwIDAgMC0yLjA2IDIuMzVjLS41NiAxLjA1LTEuMTQgMS45OC0xLjIgMy4xMS0uMDIuNjcuNSAxLjM2IDEuMiAxLjMxLjcuMDYgMS4xOS0uNjMgMS43Mi0uOTIuMDguOTMuMTcgMS45My40OCAyLjgzYTIuNiAyLjYgMCAwIDAgMi44MyAxLjc1em0uNjgtMy41Yy0uNjQtLjQtLjMzLTEuMjUtLjM2LTEuODcuMDctLjc1LjEyLTEuNTQuNDYtMi4yMi4zNS0uNDkgMS4yMi0uMyAxLjI2LjMzLS4wMi42Mi0uMzEgMS4yNS0uMjggMS45LS4wNy41NS4wNiAxLjE2LS4xOSAxLjY1LS4yLjI4LS42LjM2LS44OS4yMW0tMi44LS4zNmMtLjYxLS4zMi0uNDItMS4xNS0uNTEtMS43My4wNy0uNjYgMC0xLjUuNTctMS45Ny41NC0uMzggMS4yOC4yNyAxLjAzLjg2LS4yOC43Ni0uMSAxLjU5LS4xIDIuMzUtLjEuNDUtLjU4LjctMSAuNSIvPjwvc3ZnPg%3D%3D&logoColor=000&labelColor=fff)
+](https://tangled.org/did:plc:huu2fhy7acz36c4ktqxaq6hj) [![Codeberg - /claytontdm](https://img.shields.io/badge/Codeberg-%2Fclaytontdm-082437?style=flat-square&logo=codeberg&logoColor=FFF&labelColor=2185D0)
+](https://codeberg.org/claytontdm) [![GitHub - /claytontdm](https://img.shields.io/badge/GitHub-ClaytonTDM-262C36?style=flat-square&logo=github&logoColor=FFF&labelColor=181717)
+](https://github.com/claytontdm) [![GitLab - /claytontdm](https://img.shields.io/badge/GitLab-%2Fclaytontdm-1f1C2e?style=flat-square&logo=gitlab&logoColor=FFF&labelColor=FC6D26)
+](https://gitlab.com/claytontdm)
 
 ## 🛠️ Experience
 
 ### 🖥️ Languages & Runtimes
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](#%EF%B8%8F-languages--runtimes)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](#%EF%B8%8F-languages--runtimes)
-[![Deno](https://img.shields.io/badge/Deno-121417?style=for-the-badge&logo=deno&logoColor=FFFFFF)](#%EF%B8%8F-languages--runtimes)
-[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](#%EF%B8%8F-languages--runtimes)
-[![LuaU](https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&logo=robloxstudio&logoColor=FFFFFF)](#%EF%B8%8F-languages--runtimes)
-[![Bash/ZSH](https://img.shields.io/badge/Bash%2FZSH-272E35?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)](#%EF%B8%8F-languages--runtimes)
-[![Batch](https://img.shields.io/badge/Batch-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](#%EF%B8%8F-languages--runtimes)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](#%EF%B8%8F-languages--runtimes)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF)](#%EF%B8%8F-languages--runtimes)
+[![Deno](https://img.shields.io/badge/Deno-121417?style=for-the-badge&logo=deno&logoColor=FFF)](#%EF%B8%8F-languages--runtimes)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=FFF)](#%EF%B8%8F-languages--runtimes)
+[![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=luau&logoColor=FFF)](#%EF%B8%8F-languages--runtimes)
+[![Bash/ZSH](https://img.shields.io/badge/Bash%2FZSH-272E35?style=for-the-badge&logo=gnubash&logoColor=FFF)](#%EF%B8%8F-languages--runtimes)
+[![Batch](https://img.shields.io/badge/Batch-272E35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](#%EF%B8%8F-languages--runtimes)
 
 ### ✏️ Markup/Other Languages
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)](#%EF%B8%8F-markupother-languages)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=FFFFFF)](#%EF%B8%8F-markupother-languages)
-[![Markdown](https://img.shields.io/badge/Markdown-03A7DD?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](#%EF%B8%8F-markupother-languages)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF)](#%EF%B8%8F-markupother-languages)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=FFF)](#%EF%B8%8F-markupother-languages)
+[![Markdown](https://img.shields.io/badge/Markdown-03A7DD?style=for-the-badge&logo=markdown&logoColor=FFF)](#%EF%B8%8F-markupother-languages)
 
 ### 📚 Libraries/Frameworks
-[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)](#-librariesframeworks)
-[![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=181818)](#-librariesframeworks)
-[![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=000000)](#-librariesframeworks)
-[![Turbo](https://img.shields.io/badge/Turbo-5CD8E5?style=for-the-badge&logo=turbo&logoColor=000000)](#-librariesframeworks)
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFF)](#-librariesframeworks)
+[![Express](https://img.shields.io/badge/Express-272E35?style=for-the-badge&logo=express&logoColor=FFF)](#-librariesframeworks)
+[![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=000)](#-librariesframeworks)
+[![Turbo](https://img.shields.io/badge/Turbo-5CD8E5?style=for-the-badge&logo=turbo&logoColor=333)](#-librariesframeworks)
 [![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=A91E50)](#-librariesframeworks)
-[![Better Auth](https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=betterauth&logoColor=FFFFFF)](#-librariesframeworks)
+[![Better Auth](https://img.shields.io/badge/Better%20Auth-000?style=for-the-badge&logo=betterauth&logoColor=FFF)](#-librariesframeworks)
 
 ### 🧑‍💻 Learning
 
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF)](#%E2%80%8D-learning)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)](#%E2%80%8D-learning)
+[![Svelte(Kit)](https://img.shields.io/badge/Svelte(Kit)-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFF)](#%E2%80%8D-learning)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFF)](#%E2%80%8D-learning)
 
 ### 💻 Operating Systems
 
 #### Daily Driver
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=FFFFFF)](#daily-driver)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=FFF)](#daily-driver)
 
 #### Past Experience
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF)](#past-experience)
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-69B53F?style=for-the-badge&logo=linuxmint&logoColor=FFFFFF)](#past-experience)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFF)](#past-experience)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-69B53F?style=for-the-badge&logo=linuxmint&logoColor=FFF)](#past-experience)
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxMS4zNzd2MTEuMzcySDBabTEyLjYyMyAwSDI0djExLjM3MkgxMi42MjNaTTAgMTIuNjIzaDExLjM3N1YyNEgwWm0xMi42MjMgMEgyNFYyNEgxMi42MjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)](#past-experience)
-[![Solus](https://img.shields.io/badge/Solus-5294E2?style=for-the-badge&logo=solus&logoColor=FFFFFF)](#past-experience)
-[![Debian](https://img.shields.io/badge/Debian-FFFFFF?style=for-the-badge&logo=debian&logoColor=A80030)](#past-experience)
+[![Solus](https://img.shields.io/badge/Solus-5294E2?style=for-the-badge&logo=solus&logoColor=FFF)](#past-experience)
+[![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=FFF)](#past-experience)
 
-### 🧰 Tools
-[![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIzLjE1IDIuNTg3IDE4LjIxLjIxYTEuNDkgMS40OSAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhMSAxIDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YTEgMSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OSAxLjQ5IDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJtLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh6IiBmaWxsPSIjNUZBQ2YwIi8+PC9zdmc+)](#-tools)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2D2D30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE3LjU4My4wNjNhMS41IDEuNSAwIDAgMC0xLjAzMi4zOTJoLS4wMDFMMTYuNS41IDguNTI4IDkuMzE2IDMuODc1IDUuNWwtLjQwNy0uMzVhMSAxIDAgMCAwLTEuMDI0LS4xNTRsLS4wMTIuMDA1LTEuODE3Ljc1LS4wNzcuMDM2LS4wNDcuMDI4LS4wMzguMDIyLS4wNDguMDM0LS4wMy4wMjQtLjA0NC4wMzYtLjAzNi4wMzMtLjAzMi4wMzUtLjAzMy4wMzgtLjAzNS4wNDQtLjAyNC4wMzQtLjAzMi4wNS0uMDIuMDM1LS4wMjQuMDUtLjAyLjA0NS0uMDE2LjA0NC0uMDE2LjA0Ny0uMDE1LjA1NS0uMDEuMDQtLjAwOC4wNTQtLjAwNi4wNUwwIDYuNjY4djEwLjY2NmExIDEgMCAwIDAgLjYxNS45MTdsMS44MTcuNzY0YTEgMSAwIDAgMCAxLjAzNS0uMTY0bC40MDgtLjM1IDQuNjUzLTMuODE1IDcuOTczIDguODE1LjA3Mi4wNjUuMDU3LjA1LjA1OC4wNDIuMDYzLjA0NC4wNjUuMDM4LjA2NS4wMzYuMDY4LjAzMS4wNy4wMy4wNzMuMDI1LjA2Ni4wMi4wOC4wMi4wNjguMDE0LjA3NS4wMS4wNzUuMDA4LjA3My4wMDNoLjA3N2wuMDc4LS4wMDUuMDY3LS4wMDcuMDg3LS4wMTUuMDYtLjAxMi4wOC0uMDIyLjA2OC0uMDIuMDctLjAyOC4wOS0uMDM3IDQuOTQ0LTIuMzc3YTEuNSAxLjUgMCAwIDAgLjQ3Ni0uMzYyIDIgMiAwIDAgMCAuMDktLjExMmwuMDA0LS4wMDdhMiAyIDAgMCAwIC4wOC0uMTI1IDIgMiAwIDAgMCAuMDYyLS4xMmwuMDA5LS4wMTcuMDQtLjEwOC4wMTUtLjAzNy4wMy0uMTA3LjAwOS0uMDM3LjAxNy0uMS4wMDgtLjA1LjAwNi0uMDkuMDA0LS4wOFYzLjkwN2EyIDIgMCAwIDAtLjAxLS4xNSAxLjUgMS41IDAgMCAwLS44NC0xLjE3TDE4LjIwNi4yMWExLjUgMS41IDAgMCAwLS42MjItLjE0NnpNMTggNi45MnYxMC4xNjNsLTYuMTk4LTUuMDh6TTMgOC41NzRsMy4wOTkgMy40MjctMy4xIDMuNDI2eiIgZmlsbD0iI0NCOTZmOCIvPjwvc3ZnPg==)](#-tools)
-[![Lunacy](https://img.shields.io/badge/Lunacy-179DE3?style=for-the-badge&logo=lunacy&logoColor=FFFFFF)](#-tools)
-[![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=FFFFFF)](#-tools)
+### 🧰 Environments
+[![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIzLjE1IDIuNTg3IDE4LjIxLjIxYTEuNDkgMS40OSAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhMSAxIDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YTEgMSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OSAxLjQ5IDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJtLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)](#-tools)
+[![Lunacy](https://img.shields.io/badge/Lunacy-179DE3?style=for-the-badge&logo=lunacy&logoColor=FFF)](#-tools)
+[![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=FFF)](#-tools)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE3LjU4My4wNjNhMS41IDEuNSAwIDAgMC0xLjAzMi4zOTJoLS4wMDFMMTYuNS41IDguNTI4IDkuMzE2IDMuODc1IDUuNWwtLjQwNy0uMzVhMSAxIDAgMCAwLTEuMDI0LS4xNTRsLS4wMTIuMDA1LTEuODE3Ljc1LS4wNzcuMDM2LS4wNDcuMDI4LS4wMzguMDIyLS4wNDguMDM0LS4wMy4wMjQtLjA0NC4wMzYtLjAzNi4wMzMtLjAzMi4wMzUtLjAzMy4wMzgtLjAzNS4wNDQtLjAyNC4wMzQtLjAzMi4wNS0uMDIuMDM1LS4wMjQuMDUtLjAyLjA0NS0uMDE2LjA0NC0uMDE2LjA0Ny0uMDE1LjA1NS0uMDEuMDQtLjAwOC4wNTQtLjAwNi4wNUwwIDYuNjY4djEwLjY2NmExIDEgMCAwIDAgLjYxNS45MTdsMS44MTcuNzY0YTEgMSAwIDAgMCAxLjAzNS0uMTY0bC40MDgtLjM1IDQuNjUzLTMuODE1IDcuOTczIDguODE1LjA3Mi4wNjUuMDU3LjA1LjA1OC4wNDIuMDYzLjA0NC4wNjUuMDM4LjA2NS4wMzYuMDY4LjAzMS4wNy4wMy4wNzMuMDI1LjA2Ni4wMi4wOC4wMi4wNjguMDE0LjA3NS4wMS4wNzUuMDA4LjA3My4wMDNoLjA3N2wuMDc4LS4wMDUuMDY3LS4wMDcuMDg3LS4wMTUuMDYtLjAxMi4wOC0uMDIyLjA2OC0uMDIuMDctLjAyOC4wOS0uMDM3IDQuOTQ0LTIuMzc3YTEuNSAxLjUgMCAwIDAgLjQ3Ni0uMzYyIDIgMiAwIDAgMCAuMDktLjExMmwuMDA0LS4wMDdhMiAyIDAgMCAwIC4wOC0uMTI1IDIgMiAwIDAgMCAuMDYyLS4xMmwuMDA5LS4wMTcuMDQtLjEwOC4wMTUtLjAzNy4wMy0uMTA3LjAwOS0uMDM3LjAxNy0uMS4wMDgtLjA1LjAwNi0uMDkuMDA0LS4wOFYzLjkwN2EyIDIgMCAwIDAtLjAxLS4xNSAxLjUgMS41IDAgMCAwLS44NC0xLjE3TDE4LjIwNi4yMWExLjUgMS41IDAgMCAwLS42MjItLjE0NnpNMTggNi45MnYxMC4xNjNsLTYuMTk4LTUuMDh6TTMgOC41NzRsMy4wOTkgMy40MjctMy4xIDMuNDI2eiIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg==)](#-tools)
 
 ---
 
@@ -81,7 +83,7 @@
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#-heya-im-clay)
+> [![Profile views](https://komarev.com/ghpvc/?username=claytontdm&label=Profile%20views&color=0e75b6&style=for-the-badge)](#-heya-im-clay)
 
 [^1]: [Keyoxide Proof](https://keyoxide.org/aspe%3Akeyoxide.org%3AJOHK7JGENOKADZCDASJEW2OVSU)
 [^2]: I rarely use GitLab
